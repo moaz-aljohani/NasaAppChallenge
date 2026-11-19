@@ -46,7 +46,7 @@ Of course, these scores are preliminary estimates based on environmental conditi
 - [ISRIC SoilGrids](https://soilgrids.org/)
 - [OpenCLIM ECOCROP](https://github.com/OpenCLIM/ecocrop)
 
-We also used ChatGPT to assist us with research, coding, debugging, and documentation.
+We also used LLM to assist us with coding, debugging, and documentation.
 
 ## What's Next?
 
